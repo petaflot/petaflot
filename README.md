@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @petaflot [aka @engrenage or @engrenage1 (twitter)]
+- 👀 I’m interested in fundamental physics, field theory (thermodynamics, fluid mechanics, ...), number theory, and quite a few other things
+- 🌱 I’m currently learning to enjoy life
+- 💞️ I’m looking to collaborate on a next-generation indexing and storage paradigm (I've been working on it since 2007 or so, it works but needs quite a bit of coding to make it more user-friendly)
+- 📫 How to reach me : https://www.engrenage.ch/i18n/association/contact/
